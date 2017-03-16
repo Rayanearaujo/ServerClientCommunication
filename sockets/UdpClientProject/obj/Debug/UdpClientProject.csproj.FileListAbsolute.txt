@@ -1,0 +1,29 @@
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\bin\Debug\UdpClientProject.exe.config
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject.csprojResolveAssemblyReference.cache
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\MainWindow.baml
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\MainWindow.g.cs
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\App.g.cs
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject_MarkupCompile.cache
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject.g.resources
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject.Properties.Resources.resources
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject.csproj.GenerateResource.Cache
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\bin\Debug\UdpClientProject.exe
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\bin\Debug\UdpClientProject.pdb
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject.exe
+D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpClientProject\obj\Debug\UdpClientProject.pdb
+C:\Users\Rayane\Desktop\UdpClientProject\bin\Debug\UdpClientProject.exe.config
+C:\Users\Rayane\Desktop\UdpClientProject\obj\Debug\UdpClientProject.exe
+C:\Users\Rayane\Desktop\UdpClientProject\obj\Debug\UdpClientProject.pdb
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\bin\Debug\UdpClientProject.exe.config
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\bin\Debug\UdpClientProject.exe
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\bin\Debug\UdpClientProject.pdb
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject.csprojResolveAssemblyReference.cache
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\MainWindow.baml
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\MainWindow.g.cs
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\App.g.cs
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject_MarkupCompile.cache
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject.g.resources
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject.Properties.Resources.resources
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject.csproj.GenerateResource.Cache
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject.exe
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpClientProject\obj\Debug\UdpClientProject.pdb
