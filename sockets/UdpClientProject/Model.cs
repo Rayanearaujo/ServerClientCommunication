@@ -8,16 +8,21 @@ using System.Threading.Tasks;
 
 using System.Net.Sockets;
 using System.Net;
+using System.Threading.Tasks;
+using System.Threading;
 
 namespace UdpClientProject
 {
     public class Model : INotifyPropertyChanged
     {
+        //this is the thread that will run in the background waiting for incomming data
+        private Thread _receivedDataThread;
 
+        private UInt32 _localPort = 5001;
         private UInt32 _remotePort = 5000;
         private string _remoteIPAddress = "127.0.0.1";
 
-        private UdpClient _dataSocket;
+        private UdpClient _dataSocket, _receive_dataSocket;
         private string message;
 
         public event PropertyChangedEventHandler PropertyChanged;
@@ -51,6 +56,17 @@ namespace UdpClientProject
             }
         }
 
+        private string _receivedMessage;
+        public string receivedMessage
+        {
+            get { return _receivedMessage; }
+            set
+            {
+                _receivedMessage = value;
+                OnPropertyChanged("receivedMessage");
+            }
+        }
+
         public Model()
         {
         }
@@ -69,12 +85,39 @@ namespace UdpClientProject
             }
             catch (SocketException ex)
             {
-                myStatusMessage = myStatusMessage + ": " + "ERROR: Message not sent\n";
+                myStatusMessage = myStatusMessage + ": " + "ERRO: Mensagem nao enviada\n";
                 return;
             }
-            myStatusMessage = myStatusMessage + DateTime.Now + " Message Sucefully Sent \n";
+            myStatusMessage = myStatusMessage + DateTime.Now + ": " + "Mensagem enviada com sucesso! \n";
+
+
+            _receive_dataSocket = new UdpClient((int)_localPort);
+            ThreadStart threadFunction = new ThreadStart(ReceiveThreadFunction);
+            _receivedDataThread = new Thread(threadFunction);
+            _receivedDataThread.Start();
         }
 
+        public void ReceiveThreadFunction()
+        {
+            IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse(_remoteIPAddress), (int)_localPort);
+            while (true)
+            {
+                try
+                {
+                    //wait for data
+                    Byte[] receiveData = _receive_dataSocket.Receive(ref endPoint);
+
+                    //convert byte array to a string
+                    Console.Write(System.Text.Encoding.Default.GetString(receiveData));
+                    receivedMessage = DateTime.Now + ": " + 
+                        System.Text.Encoding.Default.GetString(receiveData);
+                }
+                catch (SocketException ex)
+                {
+                    Console.Write("problems receiving message from server");
+                }
+            }
+        }
 
     }
 }

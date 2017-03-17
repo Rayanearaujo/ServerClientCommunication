@@ -14,16 +14,16 @@ D:\Materias Intercambio\2 Semestre\CSE 483 - C#\CSE 483 Projects\UdpServerProjec
 C:\Users\Rayane\Desktop\UdpServerProject\bin\Debug\UdpServerProject.exe.config
 C:\Users\Rayane\Desktop\UdpServerProject\obj\Debug\UdpServerProject.exe
 C:\Users\Rayane\Desktop\UdpServerProject\obj\Debug\UdpServerProject.pdb
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\bin\Debug\UdpServerProject.exe.config
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\bin\Debug\UdpServerProject.exe
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\bin\Debug\UdpServerProject.pdb
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject.csprojResolveAssemblyReference.cache
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\MainWindow.baml
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\MainWindow.g.cs
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\App.g.cs
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject_MarkupCompile.cache
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject.g.resources
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject.Properties.Resources.resources
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject.csproj.GenerateResource.Cache
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject.exe
-C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\sockets\UdpServerProject\obj\Debug\UdpServerProject.pdb
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\bin\Debug\UdpServerProject.exe.config
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\bin\Debug\UdpServerProject.exe
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\bin\Debug\UdpServerProject.pdb
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject.csprojResolveAssemblyReference.cache
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\MainWindow.baml
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\MainWindow.g.cs
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\App.g.cs
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject_MarkupCompile.cache
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject.g.resources
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject.Properties.Resources.resources
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject.csproj.GenerateResource.Cache
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject.exe
+C:\Users\Rayane\Documents\IFF\7 período\Sistemas distribuídos\ServerClientCommunication\sockets\UdpServerProject\obj\Debug\UdpServerProject.pdb
